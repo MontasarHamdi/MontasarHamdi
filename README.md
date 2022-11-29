@@ -8,6 +8,7 @@ I am looking to transfer my current soft skill-set alongside my newly developed 
 - 🌱 I’m currently learning python, HTML, CSS and SQL.
 
 - 📫 How to reach me: 
-. mhas_0418@outlook.com
-. https://www.linkedin.com/in/montasarhamdi/
+* mhas_0418@outlook.com
+* https://www.linkedin.com/in/montasarhamdi/
+
 - Hyperion Dev Portfolio: https://www.hyperiondev.com/portfolio/102666/
