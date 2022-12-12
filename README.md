@@ -7,7 +7,7 @@ I am looking to transfer my current soft skill-set alongside my newly developed 
 - 🔭 I’m currently in the process of completing the Software Engineering Bootcamp Scholarship.
 - 🌱 I’m currently learning python, HTML, CSS and SQL.
 
-- 📫 How to reach me: 
+📫 How to reach me: 
 * mhas_0418@outlook.com
 * https://www.linkedin.com/in/montasarhamdi/
 
