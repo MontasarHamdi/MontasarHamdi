@@ -4,8 +4,8 @@ I am a software engineering student under the tutelage of Hyperion Dev. I am a m
 
 I am looking to transfer my current soft skill-set alongside my newly developed software engineering skills into the technology sector. I am aiming to find entry level opportunities within the health, wearable technology, genomic, aviation and aerospace technological sector.
 
-- 🔭 I’m currently in the process of completing the Software Engineering Bootcamp Scholarship.
-- 🌱 I’m currently learning python, HTML, CSS and SQL.
+- 🔭 I have completed the Hyperion Dev Software Engineering Bootcamp Scholarship.
+- 🌱 Tech Skills: Python, JavaScript (learning), HTML, CSS, Django and SQL/databases.
 
 📫 How to reach me: 
 * mhas_0418@outlook.com
